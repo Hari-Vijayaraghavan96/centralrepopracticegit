@@ -2,3 +2,6 @@ python
 java
 c++
 sql
+ruby
+php
+react
